@@ -4,3 +4,6 @@ def sum(x,y):
 def mul(x,y):
     print(x,y)
     return x*y
+def sub(x,y):
+    print(x,Y)
+    return x-y
